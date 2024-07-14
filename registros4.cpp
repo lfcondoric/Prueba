@@ -38,7 +38,7 @@ int main(){
 			}
 		}
 		if(y==x){
-			cout<<" --> Mayor numero de medallas\n";
+			cout<<" --> n";
 		}else{
 			cout<<endl;
 			y=0;
